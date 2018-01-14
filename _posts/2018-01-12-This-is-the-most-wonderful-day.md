@@ -13,10 +13,6 @@ Under&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;模仿其实也是一个创
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在你从你那一堆能力当中找出了一些特别擅长别人又需要的，第二步就是让你这个能力变得专业，因为我们要在网络上提供专业化的服务，怎样让自己变得专业？那就是要深度的模仿，也就是你要快速的磨练自己，快速的成为某个领域的专家。
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
-
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在你从你那一堆能力当中找出了一些特别擅长别人又需要的，第二步就是让你这个能力变得专业，因为我们要在网络上提供专业化的服务，怎样让自己变得专业？那就是要深度的模仿，也就是你要快速的磨练自己，快速的成为某个领域的专家。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;模仿其实也是一个创新的过程，也就是说当我们学习某样东西时，要根据他的精髓和核心内容，再结合自己理解按照自己的表达方式来输出，而不是照抄照搬。
