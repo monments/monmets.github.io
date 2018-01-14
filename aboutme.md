@@ -4,7 +4,8 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Wike. I have the following qualities:
+My name is Wike. 
+I have the following qualities:
 
 - I am learning English, Everyone can make friends with me.
 - I love to travel and learn new cultures.
