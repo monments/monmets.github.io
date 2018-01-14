@@ -72,27 +72,27 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
-#  reddit: yourname
-#  google-plus: +DeanAttali
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
+  email: "hzabc@aliyu.cn"
+  facebook: zewen.wen.1
+  github: monments
+#  twitter: Blank
+#  reddit: Blank
+#  google-plus: +Blank
+#  linkedin: Blank
+#  xing: Blank
+#  stackoverflow: "1234567/Blank"
+#  snapchat: Blank
+#  instagram: Blank
+#  youtube: user/Blank
 #  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
+#  telephone: +18072815058
+#  steam: Blank
+#  twitch: Blank
+#  yelp: Blank
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: true
   google: false
   linkedin: true
