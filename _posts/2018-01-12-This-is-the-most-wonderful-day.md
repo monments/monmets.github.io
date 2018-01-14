@@ -5,11 +5,7 @@ subtitle: Excerpt from Soulshaping by Jeff Brown
 bigimg: /img/path.jpg
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
-
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;模仿其实也是一个创新的过程，也就是说当我们学习某样东西时，要根据他的精髓和核心内容，再结合自己理解按照自己的表达方式来输出，而不是照抄照搬。
+Under&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;模仿其实也是一个创新的过程，也就是说当我们学习某样东西时，要根据他的精髓和核心内容，再结合自己理解按照自己的表达方式来输出，而不是照抄照搬。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们需要充分的对自己的知识进行收集、整理、分类、利用、分享、创新。每一天在学习的时候都需要不断循环这样的过程，也就是对自己的知识进行有效率的管理利用。有句话说：你需要什么你就会看到什么。当我们找到我们需要模仿的那一类人，我们就要充分的跟他们学习，学习他们是怎么想的，对他们的信息进行收集 分类和利用，所以学习好知识管理对于模仿也是很重要的，因为只有我们学会了知识管理才能实现知识的积累和转化。
 
