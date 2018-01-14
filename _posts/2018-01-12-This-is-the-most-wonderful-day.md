@@ -2,7 +2,7 @@
 layout: post
 title: Flake it till you make it
 subtitle: Excerpt from Soulshaping by Jeff Brown
-bigimg: /img/path.jpg
+bigimg: /img/18011201.jpg
 ---
 
 Under&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;模仿其实也是一个创新的过程，也就是说当我们学习某样东西时，要根据他的精髓和核心内容，再结合自己理解按照自己的表达方式来输出，而不是照抄照搬。
